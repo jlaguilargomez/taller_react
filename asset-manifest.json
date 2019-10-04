@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taller_react/static/css/main.259be7c7.chunk.css",
+    "main.js": "/taller_react/static/js/main.1f8b36d3.chunk.js",
+    "main.js.map": "/taller_react/static/js/main.1f8b36d3.chunk.js.map",
+    "runtime-main.js": "/taller_react/static/js/runtime-main.7a4f2211.js",
+    "runtime-main.js.map": "/taller_react/static/js/runtime-main.7a4f2211.js.map",
+    "static/js/2.84f77bae.chunk.js": "/taller_react/static/js/2.84f77bae.chunk.js",
+    "static/js/2.84f77bae.chunk.js.map": "/taller_react/static/js/2.84f77bae.chunk.js.map",
+    "index.html": "/taller_react/index.html",
+    "precache-manifest.72f6a3739b2d137463a1e7ca6258e0d6.js": "/taller_react/precache-manifest.72f6a3739b2d137463a1e7ca6258e0d6.js",
+    "service-worker.js": "/taller_react/service-worker.js",
+    "static/css/main.259be7c7.chunk.css.map": "/taller_react/static/css/main.259be7c7.chunk.css.map"
+  }
+}
