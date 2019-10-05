@@ -2,4 +2,4 @@ Proyecto desarrollado durante el taller del Meetup de WordPress Madrid para Desa
 
 Aprendí como crear un entorno de trabajo para React y como implementar una sencilla "To do App". Ahora retomo el proyecto para subirlo a mi repositorio.
 
-Url:
+Url: https://jlaguilargomez.github.io/taller_react_meetup/
